@@ -6,20 +6,13 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello Git!");
-<<<<<<< HEAD
-		System.out.println("¸üĞÂ1!");
-		System.out.println("´´½¨·ÖÖ§!");
-		System.out.println("Ö÷¸ÉÌí¼Ó!");
-		System.out.println("·ÖÖ§Ìí¼Ó!");
-		System.out.println("µÚ¶ş´ÎÌá½»Ç°¸üĞÂÌí¼Ó!");
-		
-=======
 		System.out.println("æ›´æ–°1!");
 		System.out.println("åˆ›å»ºåˆ†æ”¯!");
 		System.out.println("ä¸»å¹²æ·»åŠ !");
 		System.out.println("åˆ†æ”¯æ·»åŠ !");
 		System.out.println("åœ¨çº¿æ·»åŠ !");
->>>>>>> branch 'master' of https://github.com/Leeyoung888/testGit.git
+		System.out.println("ä¿®æ”¹åæ·»åŠ !");
+
 
 	}
 
