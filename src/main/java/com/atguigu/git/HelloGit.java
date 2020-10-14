@@ -3,7 +3,6 @@ package com.atguigu.git;
 public class HelloGit {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		System.out.println("Hello Git!");
 		System.out.println("更新1!");
@@ -12,6 +11,9 @@ public class HelloGit {
 		System.out.println("分支添加!");
 		System.out.println("修改后添加!");
 		System.out.println("在线更新!");
+		System.out.println("更新本地库!");
+		
+		
 
 	}
 
